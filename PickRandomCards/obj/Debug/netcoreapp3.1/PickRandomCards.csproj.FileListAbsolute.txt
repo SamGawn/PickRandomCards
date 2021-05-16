@@ -1,0 +1,13 @@
+D:\Github\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.exe
+D:\Github\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.deps.json
+D:\Github\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.json
+D:\Github\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.dev.json
+D:\Github\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.dll
+D:\Github\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.pdb
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csprojAssemblyReference.cache
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfoInputs.cache
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfo.cs
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.CoreCompileInputs.cache
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.dll
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.pdb
+D:\Github\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.genruntimeconfig.cache
