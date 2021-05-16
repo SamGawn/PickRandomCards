@@ -30,9 +30,9 @@ namespace PickRandomCards
         {
             int value = random.Next(1, 14);
             if (value == 1) return "Ace";
-            if (value == 1) return "Jack";
-            if (value == 1) return "Queen";
-            if (value == 1) return "King";
+            if (value == 11) return "Jack";
+            if (value == 12) return "Queen";
+            if (value == 13) return "King";
             return value.ToString();
         }
     }
